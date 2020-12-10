@@ -4,8 +4,25 @@
 
 .quem-somos {
     background-color: rgb(85, 85, 138);
+    color: white;
 }
 
 .margin {
-    padding-top: 50px;
+    padding-top: 10px;
+    padding-bottom: 50px;
 }
+
+body {
+    font: 20px Arial, sans-serif;
+}
+
+.parceiros {
+    background-color: rgb(#58FAF4);
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+
+}
+
